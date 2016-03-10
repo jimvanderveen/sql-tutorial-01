@@ -7,8 +7,6 @@ Once that's done, verify that you have sqlite installed:
 
 `sqlite --version`
 
-Define editor?
-
 # Data dictionary
 
 What tables are in the database?
