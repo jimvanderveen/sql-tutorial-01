@@ -9,6 +9,14 @@ Once that's done, verify that you have sqlite installed:
 
 Define editor?
 
+# Data dictionary
+
+What tables are in the database?
+`SELECT name FROM sqlite_master WHERE type='table'`
+
+What columns are in a particular table?
+`pragma table_info(table_name)`
+
 # Create a table
 
 # Populate table with data
