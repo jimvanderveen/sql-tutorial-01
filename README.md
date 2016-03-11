@@ -22,11 +22,11 @@ Then fire up sqlite to open the database:
 `sqlite3 survey.db`
 
 # First things first
-'.quit'
+`.quit`
 
 (restart sqlite)
 
-'.help'
+`.help`
 
 # Data dictionary
 
